@@ -47,16 +47,12 @@ blog-crud-app/
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/blog-crud-app.git
-cd blog-crud-app
-```
+
 
 ### 2. Install Dependencies
 
-```bash
 npm install
-```
+
 
 ### 3. Start the Servers
 
@@ -64,15 +60,13 @@ Open **two terminals**:
 
 **Terminal 1 – API Server**
 
-```bash
+
 nodemon index.js
-```
 
 **Terminal 2 – Frontend Server**
 
-```bash
 nodemon server.js
-```
+
 
 ### 4. Open in Browser
 
