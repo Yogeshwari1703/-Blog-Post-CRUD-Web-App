@@ -37,7 +37,7 @@ blog-crud-app/
 ├── public/          # Static assets (CSS,js)
 ├── index.js         # Backend API server
 ├── server.js        # Frontend EJS server
-├── routes/          # Route definitions
+├── screenshots      # webapp operations screenshots
 ├── package.json     # Dependencies and scripts
 ```
 
